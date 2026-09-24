@@ -1,0 +1,5 @@
+Enter sentence 1: python is very easy language 
+Enter sentence 2: python is Dynamic and portable
+Enter sentence 3: python is used in AI/ML
+Enter sentence 4: python is used in Data Science
+Enter sentence 5: python interprets the code line by line
